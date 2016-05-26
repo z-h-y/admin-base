@@ -1,0 +1,1 @@
+本文件夹保存了本系统的UML类图，类图文件(.mdj)请使用StarUML打开，软件下载地址：http://staruml.io/.

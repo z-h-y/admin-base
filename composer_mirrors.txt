@@ -1,0 +1,2 @@
+http://composer-proxy.jp/
+http://packagist.tojiru.net/

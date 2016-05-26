@@ -1,0 +1,13 @@
+/deployignore
+/.env
+/.gitattributes
+/.gitignore
+/readme.md
+/storage/
+/uml/
+.gitattributes
+.gitignore
+.editorconfig
+.jshintrc
+
+/public/js/
